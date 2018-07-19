@@ -1,0 +1,5 @@
+[book]
+authors = ["Anciety"]
+multilingual = false
+src = "src"
+title = "VegChill Book"
